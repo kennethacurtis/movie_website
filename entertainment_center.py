@@ -4,12 +4,12 @@ import fresh_tomatoes
 
 
 dunkirk = media.Movie("Dunkirk",
-                      "Soldiers are trapped a beach.",
+                      "Allied soldiers from Belgium, the British Empire and France are surrounded by the German army.",
                       "https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/dunkirk-poster.jpg",
                       "https://www.youtube.com/watch?v=F-eMt3SrfFU")
 
 fight_club = media.Movie("Fight Club",
-                         "A love story about a schizophrenia who starts a fight club.",
+                         "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soap maker.",
                          "http://www.flore-maquin.com/wp-content/uploads/Fight_club_RVB_72.jpg",
                          "https://www.youtube.com/watch?v=BdJKm16Co6M")
 
